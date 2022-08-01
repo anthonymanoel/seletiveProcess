@@ -5,24 +5,6 @@
 
 <h1 align="center">Project</h1>
 
-<p align="center">
-  <img alt="made with REACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
-  <img alt="made with MYsql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-  <img alt="made with NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{Anthony Manoel}}/project?color=56BEB8">
-
-  <!-- <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/project?color=56BEB8"> -->
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/project?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/project?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/project?color=56BEB8" /> -->
-</p>
-
 <!-- Status -->
   <h2 align="center">Finished July 31<h2>
 <!-- <h4 align="center"> 
