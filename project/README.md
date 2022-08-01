@@ -10,7 +10,7 @@
 
   <img alt="made with MYsql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-  <img alt="made with NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="made with NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{Anthony Manoel}}/project?color=56BEB8">
 
@@ -65,6 +65,21 @@
 
 
 ## :dart: Sobre ##
+  Processo seletivo para vaga de estágio como desenvolvedor FUll-Stack na Mind Consulting, me deu 4(quatro) dias, para realizar este projeto.
+
+  O projeto consiste em fazer Login Page com ReactJS - FrontEnd, NODEjs - BackEnd com BCrypt para criptografar as senhas, e usar MYsql como Database(DOCKER). ! ImprimirPágina de Login
+
+  Processo seletivo para vaga de estágio como desenvolvedor FUll-Stack na Mind Consulting, me deu 4(quatro) dias, para realizar este projeto.
+
+  O projeto consiste em fazer Login Page com ReactJS - FrontEnd, NODEjs - BackEnd com BCrypt para criptografar as senhas, e usar MYsql como Database(DOCKER).
+
+  Catálogo de Produtos que o Admin pode editar, adicionar, renomear e excluir esses produtos, então após o login, o usuário vai para esta página (catálogo de produtos) o que significa que a página de login é do proprietário do ponto de venda.
+
+  Esta página (catálogo de produtos) é a página mais difícil de fazer como desenvolvedor desde que decidi ser um dev, como front-end até então eu não tinha feito nenhuma página assim, e nunca pensei em como fazer o backend & banco de dados de algo assim, então mergulhei nos estudos em 2 desses 4 dias que me foram dados, procurei entender cada passo a dar para que tudo fosse feito da melhor forma possível mesmo que fosse minha primeira vez.
+
+  Esta página foi feita com REACTjs, NodeJS & MYsql (DOCKER)
+
+  Front-end que fiz com CSS e pensei em usar Bootstrap, UI/UX me inspirei em um antigo projeto voluntário em que participei e porque tenho tantos amigos designers, que me inspiram, então pensei em algumas cores e interfaces que eles vão gostar de usar. E, porque eu quero ser um Especialista Front-End. O Behance me ajudou muito nessas 2 páginas que fiz
 ## :sparkles: Features ##
 
 :heavy_check_mark: COD3R CURSOS help me so much;\
@@ -106,7 +121,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{Anthony Manoel}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{Anthony Manoel}}" target="_blank">{{Anthony Manoel}}</a>
 
 &#xa0;
 
