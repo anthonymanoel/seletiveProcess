@@ -84,7 +84,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/project
+$ git clone https://github.com/anthonymanoel/seletiveProcess.git
 
 # Access
 $ cd project
@@ -103,7 +103,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{Anthony Manoel}}" target="_blank">{{Anthony Manoel}}</a>
+Made with :heart: by <a href="https://github.com/anthonymanoel" target="_blank">{{Anthony Manoel}}</a>
 
 &#xa0;
 
